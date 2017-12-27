@@ -1,1 +1,1 @@
-This template is the first un adulterated version of webpack on master git branch
+Now that you have a basic build together you should move on to the next guide Asset Management to learn how to manage assets like images and fonts with webpack.
