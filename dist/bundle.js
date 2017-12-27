@@ -71,7 +71,6 @@
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_lodash__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_lodash___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_lodash__);
-throw new Error("Cannot find module \"src/style.css\"");
 
 
 
@@ -81,7 +80,7 @@ function component() {
 
 
     // lodash is not imported by this script
-    element.innerHTML = __WEBPACK_IMPORTED_MODULE_1_src_style_css___default.a.join(['Hello', 'webpack'], ' ');
+    element.innerHTML = __WEBPACK_IMPORTED_MODULE_0_lodash___default.a.join(['Hello', 'webpack'], ' ');
     element.classList.add('hello');
 
     return element;
