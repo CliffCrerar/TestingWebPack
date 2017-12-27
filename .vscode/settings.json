@@ -1,5 +1,4 @@
 {
-    "files.autoSave": "onFocusChange",
-    "liveServer.settings.root": "/webpack-demo/dist/",
-    "liveServer.settings.CustomBrowser": "firefox"
+
+    
 }

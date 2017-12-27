@@ -1,0 +1,32 @@
+{
+    "name": "webpack-demo",
+    "version": "1.0.0",
+    "description": "This template is the first un adulterated version of webpack on master git branch",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "webpack"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "css-loader": "^0.28.7",
+        "file-loader": "^1.1.6",
+        "style-loader": "^0.19.1",
+        "webpack": "^3.10.0"
+    },
+    "dependencies": {
+        "babel": "^6.23.0",
+        "lodash": "^4.17.4",
+        "node.js": "0.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CliffCrerar/TestingWebPack.git"
+    },
+    "bugs": {
+        "url": "https://github.com/CliffCrerar/TestingWebPack/issues"
+    },
+    "homepage": "https://github.com/CliffCrerar/TestingWebPack#readme"
+}
