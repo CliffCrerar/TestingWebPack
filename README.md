@@ -1,0 +1,1 @@
+This template is the first un adulterated version of webpack on master git branch
