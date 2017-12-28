@@ -1,4 +1,16 @@
 {
-
-    
+    "files.autoSave": "onFocusChange",
+    "liveServer.settings.root": "dist/",
+    "liveServer.settings.CustomBrowser": "firefox",
+    "prettier.parser": "flow",
+    "npm-intellisense.importES6": true,
+    "npm.bin": "npm",
+    "npm.useRootDirectory": true,
+    "npm-intellisense.importDeclarationType": "const",
+    "npm-intellisense.scanDevDependencies": true,
+    "npm.packageManager": "npm",
+    "npm.autoDetect": "on",
+    "npm-intellisense.recursivePackageJsonLookup": true,
+    "path-intellisense.showHiddenFiles": true,
+    "terminal.integrated.shell.osx": "/bin/bash",    
 }

@@ -5,7 +5,6 @@ import Icon from './city.jpg';
 function component() {
     var element = document.createElement('div');
 
-
     // lodash is not imported by this script
     element.innerHTML = _.join(['Hello', 'webpack'], ' ');
     element.classList.add('hello');
@@ -18,5 +17,4 @@ function component() {
 
     return element;
 }
-
 document.body.appendChild(component());
