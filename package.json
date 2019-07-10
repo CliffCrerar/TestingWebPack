@@ -17,7 +17,7 @@
     },
     "dependencies": {
         "babel": "^6.23.0",
-        "lodash": "^4.17.4",
+        "lodash": "^4.17.12",
         "node.js": "0.0.0"
     }
 }
